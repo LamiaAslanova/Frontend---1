@@ -1,0 +1,25 @@
+.card{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.card-body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-body img{
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.card__main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body p{
+    margin-bottom: 0px;
+}
